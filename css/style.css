@@ -274,7 +274,7 @@ a, a:hover{
 	padding: 17px 12px;
 	border-radius: 2px;
 	font-size: 14px;
-	text-transform: uppercase;
+	text-transform: capitalize;
 	background: transparent;
 	color: #999;
 	border: none;
