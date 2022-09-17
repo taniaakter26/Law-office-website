@@ -280,6 +280,10 @@ a, a:hover{
 	border: none;
 	border-bottom: 1px solid #4759a7;
 }
+.contact .contact-form .form-control::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #fff;
+  opacity: 0.9; 
+}
 .contact .submit{
 	width: 100%;
 	text-align: center;
