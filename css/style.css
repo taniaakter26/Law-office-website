@@ -284,17 +284,18 @@ a, a:hover{
 	width: 100%;
 	text-align: center;
 }
-.contact .submit .btn-warning{
-	padding: 11px 68px;
-	margin-right: 192px;
+.submit .btn-secondary{
 	font-size: 14px;
-	letter-spacing: 2px;
-	text-transform: uppercase;
+	line-height: 24px;
+    padding: 11px 68px;
+    margin-right: 192px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
 	font-weight: 500;
 	color: #fff;
 	background: #f2622c;
-	
-} 
+	border: 1px solid #f2622c;
+}
 /* contact section end */
 
 /* footer section starts */
