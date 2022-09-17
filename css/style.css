@@ -317,6 +317,9 @@ a, a:hover{
 	color: #fff;
 	padding-left: 16px;
 }
+.footer .social-icon a:hover, .footer .social-icon a:focus{
+	color: #f2622c;
+}
 /* footer section end */
 
 /*responsive css code starts */
