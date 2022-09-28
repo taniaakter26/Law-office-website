@@ -278,6 +278,7 @@ a, a:hover{
 	background: transparent;
 	color: #999;
 	border: none;
+	box-shadow: none;
 	border-bottom: 1px solid #4759a7;
 }
 .contact .contact-form .form-control::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
