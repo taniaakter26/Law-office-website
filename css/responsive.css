@@ -1,0 +1,105 @@
+
+/* low resulation mobile phone--glaxy fold */
+@media screen and (max-width: 319px){
+/* small-device code start */
+
+/* small-device code end */
+}
+
+/* most of the smartphone devices */
+@media (min-width: 320px) and (max-width: 480px){
+/* maximum device code start */
+.who-we .title{
+	position: relative;
+}
+.who-we .title h2 {
+    font-size: 31px;
+    line-height: 41px;
+    padding: 20px 0px 5px;
+    text-align: center;
+}
+.who-we p{
+	text-align: center;
+}
+.who-we .title img{
+    position: absolute;
+    left: 43%;
+}
+.we-do {
+    padding: 55px 0px;
+}
+.we-do .title {
+    padding: 0px 0px 40px;
+}
+.we-do .title h2 {
+    font-size: 31px;
+    line-height: 41px;
+}
+.we-do .inner-image .img-fluid {
+    margin-bottom: 10px;
+}
+.our-attorney .title {
+    padding: 0px 0px 20px;
+    position: relative;
+}
+.our-attorney .title img{
+    position: absolute;
+    left: 40%;
+}
+.our-attorney .title h2 {
+    font-size: 31px;
+    line-height: 41px;
+    text-align: center;
+    padding: 20px 0px 0px;
+}
+.our-attorney p{
+	margin-bottom: 5px;
+    text-align: center;
+
+}
+.our-attorney .btn-link {
+	margin-bottom: 40px;
+	display: block;
+    text-align: center;
+}
+.language .title h2 {
+    font-size: 31px;
+    line-height: 41px;
+}
+.language .inner-language p{
+	margin-bottom: 5px;
+}
+.language .inner-language .btn-link {
+	margin-bottom: 35px;	
+}
+.submit .btn-secondary{
+	margin: 0px;
+}
+.contact .title h2 {
+    font-size: 31px;
+    line-height: 41px;
+}
+.footer p{
+	padding: 0px;
+    margin: 1px 0px 10px 29px;
+}
+.footer .social-icon {
+    padding: 0px 0px 0px 84px;
+}
+
+/*maximum device code end*/
+}
+
+/* mobile phone and low resulation tablet */
+@media (min-width: 481px) and (max-width: 767px){
+/* mobile device code starts */
+
+/* mobile device code end */
+}
+
+/* tablet, notebook */
+@media (min-width: 768px) and (max-width: 1024px){
+/* tablet device code start*/
+
+/*tablet device code end*/
+  }
