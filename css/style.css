@@ -19,6 +19,9 @@ a, a:hover{
 	width: 100%;
 	padding: 5px;
 }
+.header .fixed-top{
+	background: #fff;
+}
 .header .navbar-nav .nav-item .nav-link{
 	font-size: 14px;
     line-height: 24px;
@@ -267,6 +270,7 @@ a, a:hover{
 	width: 100%;
 	margin-bottom: 80px;
 }
+
 .contact .contact-form .btn{
 	border-radius: 0px;
 }
@@ -276,7 +280,7 @@ a, a:hover{
 	font-size: 14px;
 	text-transform: capitalize;
 	background: transparent;
-	color: #999;
+	color: #fff;
 	border: none;
 	box-shadow: none;
 	border-bottom: 1px solid #4759a7;
@@ -301,6 +305,7 @@ a, a:hover{
 	background: #f2622c;
 	border: 1px solid #f2622c;
 }
+
 /* contact section end */
 
 /* footer section starts */
@@ -329,60 +334,3 @@ a, a:hover{
 }
 /* footer section end */
 
-/*responsive css code starts */
-@media (min-width: 279px) and (max-width: 319px){
-.footer{
-	width: 100%;
-	padding: 23px 0px;
-	background-color: #0c1234;
-}
-.footer p{
-	font-size: 14px;
-    line-height: 24px;
-    font-weight: 400;
-    color: #616ca8;
-    text-align: center;
-    padding: 20px 0px 1px 0px;
-}
-.footer .social-icon{
-	width: 100%;
-	text-align: center;
-}
-.footer .social-icon a{
-	color: #fff;
-	text-align: center;
-}
-.footer .social-icon .fa{
-	display: inline-block;
-	text-align: center;
-}
-}
-@media (min-width: 320px) and (max-width: 480px){
-.footer{
-	width: 100%;
-	padding: 23px 0px;
-	background-color: #0c1234;
-}
-.footer p{
-	font-size: 16px;
-	line-height: 25px;
-	font-weight: 400;
-	color: #616ca8;
-	padding: 11px 0px 0px 130px;
-}
-.footer .social-icon{
-	width: 100%;
-	padding: 11px 0px 0px 320px;
-}
-.footer .social-icon a{
-	color: #fff;
-	padding-left: 16px;
-}
-}
-@media (min-width: 481px) and (max-width: 767px){
-
-}
-@media (min-width: 768px) and (max-width: 1024px){
-
-}
-/*responsive css code end */
