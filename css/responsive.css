@@ -9,6 +9,16 @@
 /* most of the smartphone devices */
 @media (min-width: 320px) and (max-width: 480px){
 /* maximum device code start */
+.header .navbar-brand{
+	position: relative;
+}
+.header .navbar-toggler{
+	position: absolute;
+    top: 14%;
+    left: 79%;
+    bottom: auto;
+    right: auto;
+}
 .who-we .title{
 	position: relative;
 }
